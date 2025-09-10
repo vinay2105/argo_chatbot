@@ -1,6 +1,10 @@
-faiss-cpu
 numpy
 sentence-transformers
-google-generativeai
-uvicorn
+transformers
+torch
+google-genai
+scikit-learn
+python-decouple
 fastapi
+uvicorn[standard]
+
