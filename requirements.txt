@@ -3,3 +3,4 @@ numpy
 sentence-transformers
 google-generativeai
 uvicorn
+fastapi
